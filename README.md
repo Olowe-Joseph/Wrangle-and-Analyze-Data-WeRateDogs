@@ -32,9 +32,3 @@ some other Insights that were not mentioned but could be discovered on futher wr
 1. Analysis of dog 
 2. Analysis of retweet and favourite counts, and so on.
 
-here is a plot that shows the top 10 most common dogs.
-
-ALX.png
-
-ALX%203.png
-
