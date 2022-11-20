@@ -25,10 +25,10 @@ After i was done assessing, i singled out 8 quality issues and 2 tidyness issues
 ## Key Insights for Presentation
 The 10 most common dog names are a, Charlie, Cooper, Oliver, Tucker, Lucy, Penny, Lola, and Bo. 
 732 dogs have no name
-The iphone is the most used twitter source 3.1455 dogs were rated over 10.
+The iphone is the most used tweet source 3.1455 dogs were rated over 10.
 
 some other Insights that were not mentioned but could be discovered on futher wrangling are;
 
-1. Analysis of dog 
+1. Analysis of dog specie
 2. Analysis of retweet and favourite counts, and so on.
 
